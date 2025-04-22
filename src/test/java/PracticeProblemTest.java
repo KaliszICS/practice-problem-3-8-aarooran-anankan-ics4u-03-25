@@ -136,7 +136,7 @@ void minCostClimbingStairsTest1() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 @Test
@@ -156,7 +156,7 @@ void minCostClimbingStairsTest2() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 @Test
@@ -176,7 +176,7 @@ void minCostClimbingStairsTest3() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 @Test
@@ -196,7 +196,7 @@ void minCostClimbingStairsTest4() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 
@@ -217,7 +217,7 @@ void minCostClimbingStairsTest5() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 @Test
@@ -237,7 +237,7 @@ void minCostClimbingStairsTest6() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 @Test
@@ -257,7 +257,7 @@ void minCostClimbingStairsTest7() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 @Test
@@ -277,7 +277,7 @@ void minCostClimbingStairsTest8() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 @Test
@@ -300,7 +300,7 @@ void minCostClimbingStairsTest9() {
         fail("Method does not exist");
 }
     catch(Exception e) {
-        fail("Something weird happened");
+        fail("Something weird happened " + e);
 }
 }
 }
